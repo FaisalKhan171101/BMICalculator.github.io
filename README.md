@@ -8,3 +8,5 @@ IT also has a responsive BMi Table to compare your results. It also include a Bo
 <img src="https://user-images.githubusercontent.com/87291732/210175629-81f9b565-be4d-4138-bda0-121c9d8d6613.png" width="350" title="hover text"> 
 
 ### Demo: https://faisalkhan171101.github.io/BMICalculator.github.io/
+
+© 2022 Faisal Khan, Presidency University
