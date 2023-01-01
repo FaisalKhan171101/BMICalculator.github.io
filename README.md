@@ -4,6 +4,7 @@ BMI (body mass index) is a measure of whether you're a healthy weight for your h
 
 IT also has a responsive BMi Table to compare your results. It also include a Body fat calculator.
 
-<img src="screeenshot/bmi1.png" width="350" title="hover text"> <img src="screeenshot/bmi2.png" width="350" title="hover text"> <img src="screeenshot/bmi3.png" width="350" title="hover text">
+<img src="https://user-images.githubusercontent.com/87291732/210175611-e976afb8-ed9c-47ad-aeef-85e4a691c8d6.png" width="350" title="hover text"> 
+<img src="https://user-images.githubusercontent.com/87291732/210175629-81f9b565-be4d-4138-bda0-121c9d8d6613.png" width="350" title="hover text"> 
 
-### Demo: 
+### Demo: https://faisalkhan171101.github.io/BMICalculator.github.io/
